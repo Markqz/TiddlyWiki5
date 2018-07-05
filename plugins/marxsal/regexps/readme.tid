@@ -1,0 +1,7 @@
+title: $:/plugins/marxsal/regexps/readme
+
+Installs a filter operator ''regexps'' that takes a set of input titles and then splits them based on a regular expression. This can create brand new titles. See [[regexps]] for more details.
+
+This plugin has been proposed as an [[addition|https://github.com/Jermolene/TiddlyWiki5/pull/2963]] for the TW5 core.
+
+
